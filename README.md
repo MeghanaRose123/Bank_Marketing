@@ -1,6 +1,6 @@
-# SCT_DS_3
+Bank Marketing
 Decision Tree Classifier to predict bank product purchase using Bank Marketing dataset 
-# SCT_DS_3 - Decision Tree Classifier
+Decision Tree Classifier
 
 ## Task
 Build a decision tree classifier to predict whether a customer
